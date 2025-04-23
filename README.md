@@ -18,7 +18,7 @@ You can easily edit it to change the time threshold or notification method.
 
 ## Files
 
-- `dead-github-repo-detector.json` — the actual OpenOps workflow (import this in OpenOps)
+- `inactive-github-repo-detector.json` — the actual OpenOps workflow (import this in OpenOps)
 - `README.md` — this guide
 
 ---
